@@ -6,4 +6,4 @@
 
 2\. Fork this repo and do a pull request.
 
-3\. Contact a manager of this repo for help.
+3\. Contact a manager of this repo in order to have one of us upload your notes for you.
